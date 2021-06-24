@@ -1,0 +1,4 @@
+&electrons
+startingpot='atomic'
+conv_thr=1.d-10
+/
