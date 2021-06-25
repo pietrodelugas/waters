@@ -1,6 +1,6 @@
 &control
 calculation='scf'
-prefix='calculation_id'
+prefix='{calculation_id}'
 outdir='./'
 pseudodir='./'
 tprnfor='./'

@@ -1,0 +1,9 @@
+&system
+ ibrav = 1
+ A = {alat_angst} 
+ nat={nat}
+ ntyp=2
+ ecutwfc=60
+ ecutrho=480 
+ occupations='fixed'
+/
